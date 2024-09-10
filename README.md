@@ -12,3 +12,8 @@ To use the CSS file in your projects, simply include the following `<link>` tag 
 
 ```html
 <link rel="stylesheet" href="https://hrid1.github.io/font-awesome-cdn/style.css">
+```
+Or To Use this on Style CSS file.
+```css
+@import url("https://hrid1.github.io/font-awesome-cdn/style.css");
+```
